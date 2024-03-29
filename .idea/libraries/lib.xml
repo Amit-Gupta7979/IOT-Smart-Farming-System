@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/dx-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/mysql-connector-java-8.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/jnotify.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/bcmail-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/IOT_Farm_V.2/lib/sqlite-jdbc-3.36.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

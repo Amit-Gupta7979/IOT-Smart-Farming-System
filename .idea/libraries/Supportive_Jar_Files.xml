@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Supportive Jar Files">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/swing-worker-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/miglayout-4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/TimingFramework-0.55.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/jcalendar-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/jnotify.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/swingx-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/filters-2.0.235.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/sqlite-jdbc-3.36.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/bcmail-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/dx-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Supportive Jar Files/mysql-connector-java-8.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

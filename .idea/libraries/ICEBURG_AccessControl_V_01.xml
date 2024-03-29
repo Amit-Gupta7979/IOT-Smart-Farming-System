@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ICEBURG_AccessControl_V.01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ICEBURG_AccessControl_V.01/dist/ICEBURG_AccessControl_V.01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ICEBURG_AccessControl_V.01/ICEBURG_AccessControl_V.01.iml" filepath="$PROJECT_DIR$/ICEBURG_AccessControl_V.01/ICEBURG_AccessControl_V.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ICEBURG_Attendance/ICEBURG_Attendance.iml" filepath="$PROJECT_DIR$/ICEBURG_Attendance/ICEBURG_Attendance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IOT-Smart_Farming-main.iml" filepath="$PROJECT_DIR$/.idea/IOT-Smart_Farming-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IOT_Farm_V.2/IOT_Farm_V.2.iml" filepath="$PROJECT_DIR$/IOT_Farm_V.2/IOT_Farm_V.2.iml" />
+    </modules>
+  </component>
+</project>
